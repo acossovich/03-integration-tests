@@ -1,4 +1,7 @@
-testeo_gral:
-	go	test	./...	-v	-cover
+test:
+	go	test	./...	-v
+coverage:
+	go	test	./...	-v	-coverprofile=coverage.out
+	go tool cover -html=coverage.out
 linter:
 	golangci-lint run

@@ -1,0 +1,18 @@
+mode: set
+integrationtests/shark/mock_shark.go:12.32,14.2 1 1
+integrationtests/shark/mock_shark.go:16.51,19.2 2 1
+integrationtests/shark/white_shark.go:12.13,14.2 1 1
+integrationtests/shark/white_shark.go:25.49,26.95 1 1
+integrationtests/shark/white_shark.go:26.95,29.3 2 1
+integrationtests/shark/white_shark.go:30.2,30.46 1 1
+integrationtests/shark/white_shark.go:33.90,39.2 1 1
+integrationtests/pkg/storage/mock_storage.go:11.50,13.2 1 1
+integrationtests/pkg/storage/mock_storage.go:15.66,18.2 2 1
+integrationtests/pkg/storage/storage.go:16.52,18.16 2 0
+integrationtests/pkg/storage/storage.go:18.16,20.3 1 0
+integrationtests/pkg/storage/storage.go:22.2,24.16 3 0
+integrationtests/pkg/storage/storage.go:24.16,26.3 1 0
+integrationtests/pkg/storage/storage.go:28.2,28.28 1 0
+integrationtests/pkg/storage/storage.go:28.28,30.3 1 0
+integrationtests/pkg/storage/storage.go:32.2,32.12 1 0
+integrationtests/pkg/storage/storage.go:35.27,38.2 2 0
